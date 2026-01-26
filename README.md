@@ -5,13 +5,9 @@
 - Comfortable with **systems, tooling, and data workflows**
 - Contact me at **sarrveshwerv@gmail.com**
 
-## Connect with me:
+## 🌐 Connect with me:
 
-# Connect with me:
-
-### Connect with me:
-
-### <a href="https://www.linkedin.com/in/sarrveshwer" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/c798c65367efd5d19e8d44bf1d3cff0683914d3ebe290fba2ae6510655106b52/68747470733a2f2f636f6e74656e742e6c696e6b6564696e2e636f6d2f636f6e74656e742f64616d2f6d652f627573696e6573732f656e2d75732f616d702f7862752f6c696e6b6564696e2d726576697365642d6272616e642d67756964656c696e65732f6c696e6b6564696e2d6c6f676f2f66672f6272616e64672d6c696e6b6564696e6c6f676f2d6865726f2d6c6f676f2d64736b2d7630312e706e672f6a63723a636f6e74656e742f72656e646974696f6e732f6272616e64672d6c696e6b6564696e6c6f676f2d6865726f2d6c6f676f2d64736b2d7630312d32782e706e67" height="35px" align="center"></a> : <a href="https://www.linkedin.com/in/sarrveshwer" target="_blank" rel="noreferrer">https://www.linkedin.com/in/sarrveshwer</a>
+## <a href="https://www.linkedin.com/in/sarrveshwer" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/c798c65367efd5d19e8d44bf1d3cff0683914d3ebe290fba2ae6510655106b52/68747470733a2f2f636f6e74656e742e6c696e6b6564696e2e636f6d2f636f6e74656e742f64616d2f6d652f627573696e6573732f656e2d75732f616d702f7862752f6c696e6b6564696e2d726576697365642d6272616e642d67756964656c696e65732f6c696e6b6564696e2d6c6f676f2f66672f6272616e64672d6c696e6b6564696e6c6f676f2d6865726f2d6c6f676f2d64736b2d7630312e706e672f6a63723a636f6e74656e742f72656e646974696f6e732f6272616e64672d6c696e6b6564696e6c6f676f2d6865726f2d6c6f676f2d64736b2d7630312d32782e706e67" height="35px" align="center"></a> : <a href="https://www.linkedin.com/in/sarrveshwer" target="_blank" rel="noreferrer">https://www.linkedin.com/in/sarrveshwer</a>
 
 
 ### 🔧 Core Languages
