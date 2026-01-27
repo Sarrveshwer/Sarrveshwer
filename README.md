@@ -62,7 +62,7 @@ Each one is something I finished and learned from, not a dump of experiments.
     height="160"
   />
   <img 
-    src="https://streak-stats.demolab.com?user=Sarrveshwer&theme=dark&hide_border=true&background=0d1117&v=1"
+    src="https://streak-stats.demolab.com?user=Sarrveshwer&theme=dark&hide_border=true&background=0d1117&v=2"
     height="160"
   />
 </div>
