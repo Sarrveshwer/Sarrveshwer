@@ -56,9 +56,4 @@ Each one is something I finished and learned from, not a dump of experiments.
 
 ## GitHub stats (optional, mostly for curiosity)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Sarrveshwer&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  <img 
-    src="https://streak-stats.demolab.com?user=Sarrveshwer&theme=dark&hide_border=true&background=0d1117&v=2"
-    height="160"
-  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sarrveshwer&theme=transparent)](https://git.io/streak-stats)
