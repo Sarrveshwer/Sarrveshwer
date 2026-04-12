@@ -1,59 +1,46 @@
 # Hi, I’m Sarrveshwer 👋
 
-I work mostly with **machine learning fundamentals** right now.  
-Still early, still learning, but past the “just running notebooks” phase.
+I don't really believe in sticking to one niche. I’m a **Python guru** by trade, but I’ve spent time in almost every domain of CS—from tinkering with **C++** and **Linux internals** to building out **HTML/CSS** frontends. 
 
-I’m moving from classical ML toward **neural networks**, focusing more on
-*why models fail* than on chasing accuracy numbers.
+I’m at my best when I’m gluing different domains together to find a solution that isn't just another copy-paste job.
 
-Email: sarrveshwerv@gmail.com  
-LinkedIn: https://www.linkedin.com/in/sarrveshwer
+[LinkedIn](https://www.linkedin.com/in/sarrveshwer) • [Email](mailto:sarrveshwerv@gmail.com)
 
 ---
 
-## How I approach ML (roughly)
-- I default to simpler models unless complexity actually helps
-- I’ve broken more models with bad validation than I’ve trained successfully
-- Data issues have caused me more trouble than algorithms
-- Trying to learn DL from first principles instead of frameworks-first
+- **Logic:** Python is my go-to, but I’ll use whatever tool actually fits the problem.
+- **Systems:** Linux is a hobby for me. I live in **Arch** and **Fedora** because I like having control over the environment I’m building in.
+- **Integration:** I enjoy the "glue" work—making a model talk to a database, or wrapping low-level logic into a clean API. 
+- **The Philosophy:** I’d rather break a system to understand it than use a tool I don't trust.
 
 ---
 
-## Tech I actually use
+### 🛠 The Stack
 
-### Languages
+**Languages & Logic**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ML & Visualization
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-### Data & Tooling
+**Data & Tooling**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Systems
+**The Playground**
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## Projects
-I keep only a few projects public.  
-Each one is something I finished and learned from, not a dump of experiments.
-
-(Pinned repos explain more than this README ever will.)
+### 📂 The Projects
+I only keep the "finished" stuff public. If it's pinned below, it's because I solved a problem I found interesting—like my **[Risk Evaluation System](https://github.com/Sarrveshwer/Risk-eval-using-Logistic-Regression)**.
 
 ---
 
-## GitHub stats (optional, mostly for curiosity)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sarrveshwer&theme=transparent)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sarrveshwer&theme=transparent)
